@@ -15,10 +15,10 @@ To help gain an understanding of KickStarter outcomes based on goals, a new char
 There was difficulty with understanding how to use the COUNTIFS function in Excel.  To overcome this additional help was found online.  I searched the function and read more about it and watched videos of it in use to gain a deeper understanding.
 ## Results
 
--After futher analyzing outcomes based on launch date we can conclude that May and June were the most successful months for launching a campaign and that the least successful time to start a campaign is in December.
+- After futher analyzing outcomes based on launch date we can conclude that May and June were the most successful months for launching a campaign and that the least successful time to start a campaign is in December.
 
 - Analyzing outcomes based on goal shows us that the smaller the monetary goal you set, the more likely you are to be successful in reaching that goal; while campaigns with goals of $45,000 or greater are least likely to be successful.
 
--What are some of the limitations of this dataset? One of the limitations of the dataset is that it only includes date up to 2017 so we cannot say for sure if recent campaigns have followed the same trends that we saw from 2009-2017.  
+- What are some of the limitations of this dataset? One of the limitations of the dataset is that it only includes date up to 2017 so we cannot say for sure if recent campaigns have followed the same trends that we saw from 2009-2017.  
 
 - What are some other possible tables and/or graphs that we could create?We could also create a graph that shows the percentage of campaigns that were successful, failed, or cancelled based on the month that they were launched to help us gain a deeper understanding of how many campaigns were successful, failed, or canceled.  We could also create a chart that compares the date created and date ended to the outcomes to help determine whether shorter or longer campaigns are most likely to be successful.
